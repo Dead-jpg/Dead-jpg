@@ -8,9 +8,9 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently building **Java + Spring Boot** web apps and exploring **React**.
+- 🔭 I’m currently collabarating and working on a **Full stack** web app and exploring **React**.
 - 🤖 Exploring the intersection of **AI & Full Stack development**.
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **JDBC and SpringBoot*
 - 🤝 I love collaborating on **innovative, scalable, and intelligent projects**.
 - 📫 Reach me at: [jashithnpoojary@gmail.com](mailto:jashithnpoojary@gmail.com)
 - ⚡ Fun Fact: _"I talk a lot — but I code even more!" 😄_
@@ -37,7 +37,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -69,8 +68,6 @@
 
 ### 🧠 Currently Working On:
 ```txt
-✔️ Spring Boot Projects
-✔️ REST APIs & Microservices
 ✔️ React Frontend Apps
-✔️ Learning Docker & DevOps
+
 
