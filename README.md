@@ -8,6 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me:
+- 🔭 I’m currently in SE studying from Thadomal Shahani College of Engineering
 - 🔭 I’m currently collabarating and working on a **Full stack** web app and exploring **React**.
 - 🤖 Exploring the intersection of **AI & Full Stack development**.
 - 🌱 I’m currently learning **JDBC and SpringBoot*
