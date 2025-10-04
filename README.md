@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Jashith Poojary</h1>
 <h3 align="center">🚀 Mern Stack Developer | Java Enthusiast | Lifelong Learner from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Passionate+building+smart+solutions.;Loves+Java%2C+MernStack ;Always+curious+to+learn+DevOps+tools.;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me:
