@@ -11,7 +11,6 @@
 - 🔭 I’m currently in SE studying from Thadomal Shahani College of Engineering
 - 🔭 I’m currently collabarating and working on a **Full stack** Job Portal web app and exploring **React**.
 - 🤖 Exploring the intersection of **AI & Full Stack development**.
-- 🌱 I’m currently learning **JDBC and SpringBoot*
 - 🤝 I love collaborating on **innovative, scalable, and intelligent projects**.
 - 📫 Reach me at: [jashithnpoojary@gmail.com](mailto:jashithnpoojary@gmail.com)
 - ⚡ Fun Fact: _"I talk a lot — but I code even more!" 😄_
