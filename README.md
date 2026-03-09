@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me:
 - 🔭 I’m currently in SE studying from Thadomal Shahani College of Engineering
-- 🔭 I’m currently collabarating and working on a **Full stack** Job Portal web app and exploring **React**.
+- 🔭 I’m currently collabarating and working on a **Full stack** Place Sharing App and exploring **Node.js**.
 - 🤖 Exploring the intersection of **AI & Full Stack development**.
 - 🤝 I love collaborating on **innovative, scalable, and intelligent projects**.
 - 📫 Reach me at: [jashithnpoojary@gmail.com](mailto:jashithnpoojary@gmail.com)
