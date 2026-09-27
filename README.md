@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jashith Poojary</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Lifelong Learner from India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Lifelong Learner from India 🇮🇳</h3>
 
 ---
 
